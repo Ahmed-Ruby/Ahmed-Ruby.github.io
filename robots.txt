@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rubycl.github.io/AhmedRuby/sitemap.xml
+Sitemap: https://ahmed-ruby.github.io/sitemap.xml
